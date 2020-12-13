@@ -1,0 +1,23 @@
+{
+  "name": "pwa-pdf-converter",
+  "version": "1.0.0",
+  "description": "file conversation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandrasekhar2039/PWA-pdf-converter.git"
+  },
+  "author": "chandrasekhar samanta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandrasekhar2039/PWA-pdf-converter/issues"
+  },
+  "homepage": "https://github.com/chandrasekhar2039/PWA-pdf-converter#readme",
+  "dependencies": {
+    "cloudmersive-validate-api-client": "^1.3.5",
+    "express": "^4.17.1"
+  }
+}
